@@ -28,7 +28,7 @@ export const contentTeam: TeamMember[] = [
         lastName: "Ghosh",
         imageURL: "/team/content/Keya-Ghosh.png",
         post: "Core Member",
-        bio: "",
+        bio: "A creative mind who blends captions with code, loves editing reels and exploring new tech trends.",
         linkedinURL: "https://www.linkedin.com/in/keya-ghosh-91290a356",
     },
     {
@@ -64,18 +64,11 @@ export const contentTeam: TeamMember[] = [
         linkedinURL: "https://www.linkedin.com/in/rajdeep-dhar-abb437318",
     },
     {
-        firstName: "Devjyoti",
-        lastName: "Senapati",
-        imageURL: "/team/content/devjyoti-senapati.png",
-        post: "Core Member",
-        bio: "Content team member contributing to the ACM JU student chapter.",
-    },
-    {
         firstName: "Simrun",
         lastName: "Khatun",
         imageURL: "/team/content/Simrun-Khatun.png",
         post: "Core Member",
-        bio: "",
+        bio: "Passionate about digital content, UI aesthetics, and turning simple ideas into engaging posts.",
         linkedinURL: "https://www.linkedin.com/in/simrun-khatun-8b4788349",
     },
     {
@@ -83,7 +76,7 @@ export const contentTeam: TeamMember[] = [
         lastName: "Maity",
         imageURL: "/team/content/Sneha-Maity.png",
         post: "Core Member",
-        bio: "",
+        bio: "Loves content planning, social media insights, and spending free time gaming ",
         linkedinURL: "https://www.linkedin.com/in/sneha-maity-734a40338",
     },
 ];

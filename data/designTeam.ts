@@ -1,10 +1,19 @@
 export const designTeam: TeamMember[] = [
     {
+        firstName: "Dipram",
+        lastName: "Biswas",
+        imageURL: "/team/design/dipram-biswas.png",
+        post: "Core Member",
+        bio: "Frontend Developer focused on web animations, UI/UX, and visual design. I build modern, high-performance interfaces with React.js, Tailwind CSS, and animation libraries like GSAP and Motion, bridging design and code to create smooth, intuitive user experiences.",
+        linkedinURL: "https://www.linkedin.com/in/dipram-biswas",
+        githubURL: "https://github.com/Dipram-9090",
+    },
+    {
         firstName: "Anurag",
         lastName: "Biswas",
         imageURL: "/team/design/anurag-biswas.png",
         post: "Core Member",
-        bio: "LinkedIn: https://www.linkedin.com/in/anurag-biswas-3602a136b",
+        bio: "Design enthusiast skilled in Photoshop, Figma, and creating visuals that speak louder than words.",
         linkedinURL: "https://www.linkedin.com/in/anurag-biswas-3602a136b",
         githubURL: "https://github.com/cmdanurag",
     },
@@ -33,14 +42,5 @@ export const designTeam: TeamMember[] = [
         bio: "Passionate about creating front-end design. Has experience with Canva, Next, React, and Tailwind.",
         linkedinURL: "https://www.linkedin.com/in/koustav-manna-b6a64330b",
         githubURL: "https://www.github.com/koustav-github",
-    },
-    {
-        firstName: "Dipram",
-        lastName: "Biswas",
-        imageURL: "/team/design/dipram-biswas.png",
-        post: "Core Member",
-        bio: "Frontend Developer focused on web animations, UI/UX, and visual design. I build modern, high-performance interfaces with React.js, Tailwind CSS, and animation libraries like GSAP and Motion, bridging design and code to create smooth, intuitive user experiences.",
-        linkedinURL: "https://www.linkedin.com/in/dipram-biswas",
-        githubURL: "https://github.com/Dipram-9090",
     },
 ];

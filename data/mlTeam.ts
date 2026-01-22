@@ -26,7 +26,6 @@ export const mlTeam: TeamMember[] = [
     linkedinURL: "https://www.linkedin.com/in/sarbosarcar/",
     githubURL: "https://github.com/sarbosarcar",
   },
-
   {
     firstName: "Sauhardya",
     lastName: "Hazra",
@@ -54,7 +53,6 @@ export const mlTeam: TeamMember[] = [
     linkedinURL: " https://www.linkedin.com/in/shraman-banerjee-385200303/",
     githubURL: " https://github.com/shramanb113",
   },
-
   {
     firstName: "Soumyajit",
     lastName: "Ghosh",
@@ -72,5 +70,13 @@ export const mlTeam: TeamMember[] = [
     bio: "Loves to help impoverished kids learn coding. Passionate about machine learning and artificial intelligence.",
     linkedinURL: "https://www.linkedin.com/in/krishnendu-mondal-224b321ba/",
     githubURL: "https://github.com/EvilLucifer00",
+  },
+  {
+    firstName: "Belal",
+    lastName: "Ahmad",
+    imageURL: "/team/ml-team/belal-ahmad.png",
+    post: "Core Member",
+    bio: "Passionate about machine learning, artificial intelligence and mathematics. Tech enthusiast who loves reading and writing in his free time.",
+    linkedinURL: "https://www.linkedin.com/in/belal-khursheed-ahmad-8b70a8373",
   },
 ];

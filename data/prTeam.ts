@@ -39,4 +39,11 @@ export const prTeam: TeamMember[] = [
         bio: "Looking forward to contributing to the prestigious ACM JU student chapter. Purpose of joining is to maximize skillset and improve management acumen. Eagerly waiting to contribute, learn, grow and network with great set of people.",
         linkedinURL: "https://www.linkedin.com/in/arpit-praharaj-b5b526383",
     },
+    {
+        firstName: "Sheikh",
+        lastName: "Umeed",
+        imageURL: "/team/pr/sheikh-umeed.png",
+        post: "Core Member",
+        bio: "Campaign strategist with 7 years of experience in promotions and social media. Interested in coding, web development, and building strong digital communities.",
+    },
 ];
