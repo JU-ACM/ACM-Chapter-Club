@@ -43,4 +43,13 @@ export const designTeam: TeamMember[] = [
         linkedinURL: "https://www.linkedin.com/in/koustav-manna-b6a64330b",
         githubURL: "https://www.github.com/koustav-github",
     },
+    {
+        firstName: "Ayan",
+        lastName: "Ghosh",
+        imageURL: "/team/design/ayan-ghosh.jpg",
+        post: "Design Lead",
+        bio: "Passionate about visual design, with a strong interest in creating clear, impactful, and meaningful visual experiences.",
+        linkedinURL: "https://www.linkedin.com/in/ayan001",
+        githubURL: "https://github.com/ayan101203",
+    },
 ];
