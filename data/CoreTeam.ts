@@ -65,7 +65,7 @@ export const coreTeam: TeamMember[] = [
     {
         firstName: "Ayan",
         lastName: "Ghosh",
-        imageURL: "/team/ayan-ghosh.jpeg",
+        imageURL: "/team/design/ayan-ghosh.jpg",
         post: "Treasurer",
         bio: "Building clean, responsive, and user-focused interfaces for the modern web.",
         linkedinURL: "https://www.linkedin.com/in/ayan001/",
